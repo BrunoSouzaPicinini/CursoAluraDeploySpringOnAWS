@@ -11,35 +11,35 @@
 		<link href="https://plus.googlecom/108540024862647200608"
 			rel="publisher"/>
 		<title>Livros de Java, SOA, Android, iPhone, Ruby on Rails e
-			muito mais - Casa do C�digo</title>
-		<link href="../../resources/css/cssbase-min.css"
+			muito mais - Casa do Código</title>
+		<link href="/casadocodigo/resources/css/cssbase-min.css"
 			rel="stylesheet" type="text/css" media="all" />
 		<link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700'
 			rel='stylesheet'/>
-		<link href="../../resources/css/fonts.css"
+		<link href="/casadocodigo/resources/css/fonts.css"
 			rel="stylesheet" type="text/css" media="all" />
-		<link href="../../resources/css/fontello-ie7.css"
+		<link href="/casadocodigo/resources/css/fontello-ie7.css"
 			rel="stylesheet" type="text/css" media="all" />
-		<link href="../../resources/css/fontello-embedded.css"
+		<link href="/casadocodigo/resources/css/fontello-embedded.css"
 			rel="stylesheet" type="text/css" media="all" />
-		<link href="../../resources/css/fontello.css"
+		<link href="/casadocodigo/resources/css/fontello.css"
 			rel="stylesheet" type="text/css" media="all" />
-		<link href="../../resources/css/style.css"
+		<link href="/casadocodigo/resources/css/style.css"
 			rel="stylesheet" type="text/css" media="all" />
-		<link href="../../resources/css/layout-colors.css"
+		<link href="/casadocodigo/resources/css/layout-colors.css"
 			rel="stylesheet" type="text/css" media="all" />
-		<link href="../../resources/css/responsive-style.css"
+		<link href="/casadocodigo/resources/css/responsive-style.css"
 			rel="stylesheet" type="text/css" media="all" />
-		<link href="../../resources/css/estilos-casadocodigo.css"
+		<link href="/casadocodigo/resources/css/estilos-casadocodigo.css" 
 			rel="stylesheet" type="text/css"  media="all"  />
-	    <link href="../../resources/css/produtos.css"
+	    <link href="/casadocodigo/resources/css/produtos.css" 
 	    	rel="stylesheet" type="text/css"  media="all"  />
-		<link rel="canonical" href="http://www.casadocodigo.com.br/" />
-		<link href="../../resources/css/book-collection.css"
+		<link rel="canonical" href="http://www.casadocodigo.com.br/" />	
+		<link href="/casadocodigo/resources/css/book-collection.css"
 				rel="stylesheet" type="text/css" media="all" />
-
-	<link rel="stylesheet" href="../../resources/css/bootstrap.min.css">
-	<link rel="stylesheet" href="../../resources/css/bootstrap-theme.min.css">
+				
+	<link rel="stylesheet" href="/casadocodigo/resources/css/bootstrap.min.css">
+	<link rel="stylesheet" href="/casadocodigo/resources/css/bootstrap-theme.min.css">	
 </head>
 
 
