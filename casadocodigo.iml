@@ -93,5 +93,10 @@
     <orderEntry type="library" name="Maven: com.amazonaws:jmespath-java:1.11.125" level="project" />
     <orderEntry type="library" name="Maven: com.amazonaws:aws-java-sdk-ec2:1.11.125" level="project" />
     <orderEntry type="library" name="Maven: com.amazonaws:aws-java-sdk-cloudformation:1.11.125" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.session:spring-session-data-redis:1.0.1.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-pool2:2.2" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.data:spring-data-redis:1.4.2.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.session:spring-session:1.0.1.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: redis.clients:jedis:2.6.2" level="project" />
   </component>
 </module>
